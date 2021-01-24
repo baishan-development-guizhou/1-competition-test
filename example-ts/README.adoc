@@ -1,0 +1,21 @@
+= `example-ts`
+
+Example for Ts.
+
+== Run
+
+Install all packages.
+
+[source,shell script]
+----
+yanr install
+----
+
+Run server.
+
+[source,shell script]
+----
+yarn dev
+----
+
+Visit http://127.0.0.1:3000
