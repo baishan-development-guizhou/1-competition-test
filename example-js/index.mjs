@@ -1,10 +1,16 @@
 import Koa from 'koa'
 
-const app = new Koa()
+class Server {
 
-app.use( async ( ctx ) => {
-  ctx.body = 'hello koa2'
-})
+  constructor (port) {
+    const app = new Koa()
+    app.use( async ( ctx ) => {
+      ctx.body = 'hello koa2'
+    })
+    app.listen(port)
+  }
 
-app.listen(3000)
+}
+
+new Server(3000)
 console.log('[demo] start-quick is starting at port 3000')

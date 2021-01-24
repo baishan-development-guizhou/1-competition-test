@@ -1,6 +1,6 @@
-= `example-Javascript`
+= `example-js`
 
-Example for Javascript.
+Example for Js.
 
 == Run
 
@@ -11,7 +11,7 @@ Install all packages.
 yanr install
 ----
 
-Run sever.
+Run server.
 
 [source,shell script]
 ----
