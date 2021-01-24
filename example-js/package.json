@@ -1,0 +1,19 @@
+{
+  "name": "example-js",
+  "version": "1.0.0",
+  "description": "Test example.",
+  "main": "index.mjs",
+  "author": {
+    "name": "z-yue",
+    "url": "https://github.com/lizhongyue248"
+  },
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "node index.mjs"
+  },
+  "dependencies": {
+    "koa": "^2.13.1"
+  },
+  "devDependencies": {}
+}
