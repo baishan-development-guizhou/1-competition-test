@@ -1,0 +1,14 @@
+= `example-python`
+
+Example for Python.
+
+== Run
+
+Run server.
+
+[source,shell script]
+----
+python app.py
+----
+
+Visit http://127.0.0.1:5000
