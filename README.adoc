@@ -1,0 +1,44 @@
+= 1-competition-test
+
+Competition Test.
+
+== Application
+
+[cols="1,1", options="header"]
+.Example
+|===
+|Name
+|Language
+
+|https://github.com/baishan-development-guizhou/1-competition-test/tree/master/example-deno[example-deno]
+|Deno
+
+|https://github.com/baishan-development-guizhou/1-competition-test/tree/master/example-go[example-go]
+|Golang
+
+|https://github.com/baishan-development-guizhou/1-competition-test/tree/master/example-java[example-java]
+|Java
+
+|https://github.com/baishan-development-guizhou/1-competition-test/tree/master/example-js[example-js]
+|JavaScript
+
+|https://github.com/baishan-development-guizhou/1-competition-test/tree/master/example-kotlin[example-kotlin]
+|Kotlin
+
+|https://github.com/baishan-development-guizhou/1-competition-test/tree/master/example-php[example-php]
+|PHP
+
+|https://github.com/baishan-development-guizhou/1-competition-test/tree/master/example-python[example-python]
+|Python
+
+|https://github.com/baishan-development-guizhou/1-competition-test/tree/master/example-ts[example-ts]
+|TypeScript
+|===
+
+== Marketplace Apps
+
+image::https://deepscan.io/api/teams/12626/projects/15671/branches/316134/badge/grade.svg[DeepScan grade]
+image::https://codebeat.co/badges/54a3e648-ff27-4548-a549-d7f375ee8bb8[codebeat badge]
+
+- https://deepscan.io/dashboard#view=project&tid=12626&pid=15671&bid=316134[DeepScan]
+- https://codebeat.co/projects/github-com-baishan-development-guizhou-1-competition-test-maste[CodeBeat]
